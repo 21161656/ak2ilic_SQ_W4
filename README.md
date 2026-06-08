@@ -28,10 +28,16 @@ mouse-pressed - To check final cumulative results
 ## Assets
 | File | Source |
 |------|--------|
-| `assets/images/Celeste Background.png` |https://www.reddit.com/r/celestegame/comments/qtgrjh/simplified_celeste_peak_wallpaper_in_4k_original/ [1]|
-| `assets/images/celeste character.png` |https://celestegame.fandom.com/wiki/Madeline [3]|
-
-
+| `assets/images/bad_ending.png` |https://www.reddit.com/r/celestegame/comments/qtgrjh/simplified_celeste_peak_wallpaper_in_4k_original/ [1]|
+| `assets/images/bg-a.png` |https://celestegame.fandom.com/wiki/Madeline [3]|
+| `assets/images/bg-aa.png` |https://celestegame.fandom.com/wiki/Madeline [3]|
+| `assets/images/bg-ab.png` |https://celestegame.fandom.com/wiki/Madeline [3]|
+| `assets/images/bg-b.png` |https://celestegame.fandom.com/wiki/Madeline [3]|
+| `assets/images/bg-ba.png` |https://celestegame.fandom.com/wiki/Madeline [3]|
+| `assets/images/bg-bb.png` |https://celestegame.fandom.com/wiki/Madeline [3]|
+| `assets/images/ending_aaa.png` |https://celestegame.fandom.com/wiki/Madeline [3]|
+| `assets/images/ending_bbb.png` |https://celestegame.fandom.com/wiki/Madeline [3]|
+| `assets/images/getting_over_it_background.png` |https://celestegame.fandom.com/wiki/Madeline [3]|
 
 ## References
 
