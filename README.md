@@ -12,9 +12,9 @@ Each scenario presents two choices:
 Take it out or Hold it in 
 
 controls:
-mouse pressed - select a choice button
-mouse pressed - Return to home screen after reaching the end good/bad
-mouse-pressed - To check final cumulative results
+* mouse pressed - select a choice button
+* mouse pressed - Return to home screen after reaching the end good/bad
+* mouse-pressed - To check final cumulative results
 
 - **Game states** — the game moves through `STATE_START`, `STATE_PLAY`, and `STATE_OVER`; each state controls what gets drawn and what responds to clicks; stored as constants to prevent typos
 - **Score tracking** — `playerScore` and `npcScore` persist across rounds; only choices and results are reset between rounds using `nextRound()`
