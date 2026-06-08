@@ -28,15 +28,15 @@ controls:
 ## Assets
 | File | Source |
 |------|--------|
-| `assets/images/bad_ending.png` |https://steamcommunity.com/sharedfiles/filedetails/?l=german&id=2435414638 [12]|
+| `assets/images/bad_ending.png` |https://steamcommunity.com/sharedfiles/filedetails/?l=german&id=2435414638 [11]|
 | `assets/images/bg-a.png` |https://therefinedgeek.com.au/index.php/2018/01/08/getting-over-it-with-bennett-foddy-i-laugh-i-cry-i-continue/ [10]|
 | `assets/images/bg-aa.png` |https://celestegame.fandom.com/wiki/Madeline [3]|
-| `assets/images/bg-ab.png` |https://celestegame.fandom.com/wiki/Madeline [3]|
+| `assets/images/bg-ab.png` |https://celestegame.fandom.com/wiki/Madeline [11]|
 | `assets/images/bg-b.png` |https://celestegame.fandom.com/wiki/Madeline [3]|
-| `assets/images/bg-ba.png` |https://steamcommunity.com/sharedfiles/filedetails/?l=german&id=2435414638 [12]|
+| `assets/images/bg-ba.png` |https://steamcommunity.com/sharedfiles/filedetails/?l=german&id=2435414638 [4]|
 | `assets/images/bg-bb.png` |https://celestegame.fandom.com/wiki/Madeline [3]|
 | `assets/images/ending_aaa.png` |https://getting-over-it.fandom.com/wiki/Orange_Hell [9]|
-| `assets/images/ending_bbb.png` |https://steamcommunity.com/sharedfiles/filedetails/?l=german&id=2435414638 [12]|
+| `assets/images/ending_bbb.png` |https://steamcommunity.com/sharedfiles/filedetails/?l=german&id=2435414638 [4]|
 | `assets/images/getting_over_it_background.png` |https://therefinedgeek.com.au/index.php/2018/01/08/getting-over-it-with-bennett-foddy-i-laugh-i-cry-i-continue/ [10]|
 
 ## References
@@ -74,6 +74,4 @@ https://therefinedgeek.com.au/index.php/2018/01/08/getting-over-it-with-bennett-
 [11] Stage 1 environment reference. Getting Over It Wiki.
 https://getting-over-it.fandom.com/wiki/Stage_1
 
-[12] Steam Community visual guide and screenshots. Steam Community.
-https://steamcommunity.com/sharedfiles/filedetails/?l=german&id=2435414638
 
