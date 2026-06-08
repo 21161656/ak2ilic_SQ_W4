@@ -1,10 +1,6 @@
-# Week 4 Example 2: Rock Paper Scissors Best of 3
+# Week 4: Getting Over It 
 
-## What This Example Demonstrates
-
-> **Note for students:** This section is included in example files only to help you study. Do not include it in your Side Quest submissions.
-
-This example builds on Example 1 by adding score tracking, multiple rounds, game states, and a full start and end screen to create a complete Best of 3 Rock Paper Scissors game.
+## What This Game Demonstrates
 
 - **Game states** — the game moves through `STATE_START`, `STATE_PLAY`, and `STATE_OVER`; each state controls what gets drawn and what responds to clicks; stored as constants to prevent typos
 - **Score tracking** — `playerScore` and `npcScore` persist across rounds; only choices and results are reset between rounds using `nextRound()`
