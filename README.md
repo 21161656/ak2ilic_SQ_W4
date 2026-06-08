@@ -1,4 +1,4 @@
-# Week 4: Getting Over It 
+# Week 4: Getting Over It
 
 ## What This Game Demonstrates
 
