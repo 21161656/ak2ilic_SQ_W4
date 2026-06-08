@@ -29,7 +29,7 @@ controls:
 | File | Source |
 |------|--------|
 | `assets/images/bad_ending.png` |https://steamcommunity.com/sharedfiles/filedetails/?l=german&id=2435414638 [12]|
-| `assets/images/bg-a.png` |https://celestegame.fandom.com/wiki/Madeline [3]|
+| `assets/images/bg-a.png` |https://therefinedgeek.com.au/index.php/2018/01/08/getting-over-it-with-bennett-foddy-i-laugh-i-cry-i-continue/ [10]|
 | `assets/images/bg-aa.png` |https://celestegame.fandom.com/wiki/Madeline [3]|
 | `assets/images/bg-ab.png` |https://celestegame.fandom.com/wiki/Madeline [3]|
 | `assets/images/bg-b.png` |https://celestegame.fandom.com/wiki/Madeline [3]|
