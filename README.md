@@ -1,6 +1,21 @@
 # Week 4: Getting Over It
 
-## What This Game Demonstrates
+## Project Title: Getting Over IT
+
+## Setup and Interaction Instructions:
+
+Open the Github pages ink from your browser to play the game.
+
+The player progresses through a branching of decisions inspired by the scenarios and text spoken from Getting Over It by Bennet.
+Each scenario presents two choices:
+
+Take it out
+Hold it in 
+
+controls:
+mouse pressed - select a choice button
+mouse pressed - Return to home screen after reaching the end good/bad
+mouse-pressed - To check final cumulative results
 
 - **Game states** — the game moves through `STATE_START`, `STATE_PLAY`, and `STATE_OVER`; each state controls what gets drawn and what responds to clicks; stored as constants to prevent typos
 - **Score tracking** — `playerScore` and `npcScore` persist across rounds; only choices and results are reset between rounds using `nextRound()`
@@ -11,22 +26,13 @@
 - **Passing arguments to scene functions** — `drawGameScreen()` receives `playerBlobT` and `npcBlobT` as arguments so the blobs animate continuously across all screens
 - **Shared global scope across files** — `drawHUD()` in scenes.js reads `currentRound`, `MAX_ROUNDS`, `playerScore`, and `npcScore` directly from game.js without any extra wiring, because all files share the same global scope
 
-## Setup and Interaction Instructions
-
-To run the sketch locally, open `index.html` in Google Chrome using Live Server.
-
-Click **Start Game** to begin. Click **Rock**, **Paper**, or **Scissors** each round. First to win 2 rounds wins the game. Click **Play Again** to rematch.
-
-**Opening the Chrome Console**
-
-- **Windows:** Press `F12` or `Ctrl + Shift + J`, then click the **Console** tab
-- **Mac:** Press `Cmd + Option + J`
-
-The console will show any errors in your sketch.
-
 ## Assets
+| File | Source |
+|------|--------|
+| `assets/images/Celeste Background.png` |https://www.reddit.com/r/celestegame/comments/qtgrjh/simplified_celeste_peak_wallpaper_in_4k_original/ [1]|
+| `assets/images/celeste character.png` |https://celestegame.fandom.com/wiki/Madeline [3]|
 
-No external assets used. All visuals are generated with p5.js.
+
 
 ## References
 
